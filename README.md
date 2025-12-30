@@ -170,7 +170,6 @@ class DevParikh:
 - 📈 Performance metrics visualization
 - 🔍 Computer vision for game insights
 
-[View Project](#)
 
 </td>
 <td width="50%">
@@ -183,7 +182,7 @@ class DevParikh:
 - 💹 Real-time market data integration
 - 📊 Intelligent portfolio management
 
-[View Project](#)
+
 
 </td>
 </tr>
@@ -198,20 +197,11 @@ class DevParikh:
 - 🔍 RAG-based information retrieval
 - 💬 Personalized counseling recommendations
 
-[View Project](#)
 
 </td>
 <td width="50%">
 
-### 🛍️ E-Commerce Platform
-**Tech Stack:** MERN Stack (MongoDB, Express, React, Node.js)
 
-- 🛒 Full-featured shopping cart
-- 💳 Payment gateway integration
-- 👤 User authentication & authorization
-- 📦 Order management system
-
-[View Project](#)
 
 </td>
 </tr>
@@ -242,13 +232,14 @@ Published in: ICT: Applications and Social Interfaces - Springer
 <td width="5%" align="center">2️⃣</td>
 <td width="95%">
 
-**Natural Language Processing in Email Spam Filtering: A Comprehensive Study**  
-*Parikh, D., et al.* (2024)  
-Published in: International Journal/Conference (October 2024)  
+**Natural Language Processing in Email Spam Filtering: A Comparative Study**  
+*Parikh, D., Parmar, J., Thakkar, A., Bhoi, D.* (2024)  
+Published in: Springer Conference Proceedings — ICT: Applications and Social Interfaces  
+DOI: [10.1007/978-981-96-4142-0_19](https://doi.org/10.1007/978-981-96-4142-0_19)  
+
+[![Paper](https://img.shields.io/badge/DOI-Springer-Link-red?style=flat-square&logo=springer)](https://link.springer.com/chapter/10.1007/978-981-96-4142-0_19)
 [![Status](https://img.shields.io/badge/Status-Published-success?style=flat-square)]()
-
-**Abstract:** Comprehensive analysis of NLP techniques for email spam detection including Bag of Words, TF-IDF, FastText embeddings, Naive Bayes, and Random Forest classifiers with comparative performance evaluation.
-
+This study evaluates classical and embedding-based NLP techniques for email spam filtering, demonstrating that FastText-based representations outperform traditional BoW and TF-IDF approaches in spam classification tasks.
 </td>
 </tr>
 </table>
@@ -270,11 +261,7 @@ Published in: International Journal/Conference (October 2024)
 
 </div>
 
-### 📈 Contribution Activity
 
-![Dev's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dev0907&theme=tokyo-night&hide_border=true&area=true)
-
----
 
 ## 🎯 Current Focus & Goals
 
