@@ -79,7 +79,7 @@ class DevParikh:
 
 | Stream | Score | AIR | Pool |
 |--------|-------|-----|------|
-| DS & AI | **377** | **6,505** | 170k+ |
+| DS & AI | **377** | **6,505** |170k+ |
 | CSE | **381** | **17,015** | 170k+ |
 
 </td>
@@ -90,11 +90,11 @@ class DevParikh:
 
 | Course | Grade |
 |--------|-------|
-| Database Management Systems | Elite — Top 5% |
-| Operating Systems | Elite — Top 5% |
-| Design & Analysis of Algorithms | Elite — Top 5% |
-| Machine Learning | Elite — Top 5% |
-| Data Structures & Algorithms using Java | Elite — Top 5% |
+| Database Management Systems | Elite  |
+| Operating Systems | Elite  |
+| Design & Analysis of Algorithms | Elite  |
+| Machine Learning | Elite  |
+| Data Structures & Algorithms using Java | Elite with Silver — Top 5% |
 
 ---
 
