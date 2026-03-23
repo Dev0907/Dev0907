@@ -39,18 +39,19 @@ class DevParikh:
         return [
             "2x GATE Qualified — DS&AI (AIR 6,505) + CSE (AIR 17,015) [2025]",
             "2x Springer-Published Research Author — ICTCS 2024 / LNNS Series",
+            "Open Source Contributor — Accomplish AI (MIT) · +895/-2 lines merged to main",
             "ML Club Coordinator @ CHARUSAT University",
             "Co-founder @ Lekh.ai — Live AI Document Generation Platform",
             "Software Engineer Intern — AI chatbot serving 100+ UK employers",
             "5x NPTEL Elite Certified (Top 5% Nationwide)",
-            "Kaggle Competitor — Hull Tactical, March ML Mania, AI Math Olympiad",
+            "Kaggle Competitor — Hull Tactical · March ML Mania · AI Math Olympiad",
             "Top 75 / 2,200+ Teams — Odoo x CHARUSAT Hackathon",
         ]
 
     @property
     def currently(self):
         return {
-            "building"   : ["AP-AgentForge (GSoC 2026 — Accord Project)", "Lekh.ai"],
+            "building"   : ["Lekh.ai — AI Document Platform", "PicklePro — AI Sports Analytics"],
             "competing"  : ["Kaggle: AI Mathematical Olympiad - Progress Prize"],
             "researching": ["Agentic AI Workflows", "MCP Protocol", "Multilingual NLP"],
         }
@@ -307,6 +308,30 @@ Comparative study applying NLP techniques to email spam classification. Benchmar
 
 ---
 
+## 💡 Open Source Contributions
+
+### 🖥️ [Accomplish AI](https://github.com/accomplish-ai/accomplish) — Open Source AI Desktop Coworker
+`Contributor · TypeScript · Chrome DevTools Protocol (CDP) · Electron`
+
+> Accomplish is an MIT-licensed open-source AI desktop agent (Electron + React) that automates file management, browser tasks, and document workflows locally.
+
+**PR [#480](https://github.com/accomplish-ai/accomplish/issues/480) → Merged into main via [PR #769](https://github.com/accomplish-ai/accomplish/pull/769)**
+*feat: ENG-695 — Embedded Live Browser View in Chat via CDP Screencast*
+
+| Contribution | Detail |
+|---|---|
+| `CdpClient` WebSocket class | Core client managing the WebSocket connection to Chrome DevTools Protocol |
+| Per-task CDP session management | Each task gets its own isolated session — prevents interference between concurrent executions |
+| Task lifecycle hooks | CDP sessions open and tear down in sync with task start/stop events |
+| Direct CDP session support | Enables direct communication with browser targets without a proxy layer |
+| **Impact** | **+895 / −2 lines** merged to `main` — infrastructure powering the live browser view feature |
+
+> *Maintainer note:* "Your PR provided the low-level CDP infrastructure that makes the live browser view possible... Your work (+895 / -2 lines) is now live in main." — [@mavishay](https://github.com/mavishay)
+
+[![View Contribution](https://img.shields.io/badge/accomplish--ai%2Faccomplish-PR_%23480_Merged-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/accomplish-ai/accomplish/issues/480)
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -340,15 +365,14 @@ Comparative study applying NLP techniques to email spam classification. Benchmar
 ## 🌱 Currently
 
 ```
-🔨  Building     →  AP-AgentForge  [GSoC 2026 — Accord Project / Linux Foundation]
-                    Agentic multi-agent system for legal template generation via MCP + CrewAI
-
-🌐  Maintaining  →  Lekh.ai        AI academic document generation  (lekhai-frontend.vercel.app)
+🌐  Building     →  Lekh.ai        AI academic document generation  (lekhai-frontend.vercel.app)
                     PicklePro      Real-time AI sports analytics    (pickleproproject.vercel.app)
+
+🔧  Contributing →  Open Source    Actively looking for impactful OSS projects to contribute to
 
 📊  Competing    →  Kaggle         Hull Tactical · March ML Mania · AI Math Olympiad
 
-📖  Learning     →  MCP Protocol  ·  LangGraph  ·  LegalTech AI  ·  Agentic Orchestration
+📖  Learning     →  MCP Protocol  ·  Agentic AI Workflows  ·  LangGraph  ·  Multilingual NLP
 ```
 
 ---
