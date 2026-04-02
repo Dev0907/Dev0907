@@ -351,7 +351,7 @@ Comparative study applying NLP techniques to email spam classification. Benchmar
 
 <div align="center">
 
-<img width="95%" src="https://ghchart.rshah.org/7C3AED/Dev0907" alt="Dev0907 Contribution Chart"/>
+<img width="95%" src="https://github-contribution-stats.vercel.app/api/?username=Dev0907&theme=github&v=1"/>
 
 </div>
 
