@@ -86,17 +86,7 @@ class DevParikh:
 </tr>
 </table>
 
-### 📜 NPTEL Certifications — 5× Elite (Top 5% Nationwide)
 
-| Course | Grade |
-|--------|-------|
-| Database Management Systems | Elite  |
-| Operating Systems | Elite  |
-| Design & Analysis of Algorithms | Elite  |
-| Machine Learning | Elite  |
-| Data Structures & Algorithms using Java | Elite with Silver — Top 5% |
-
----
 
 ## 🛠️ Tech Stack
 
