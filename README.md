@@ -323,15 +323,13 @@ Comparative study applying NLP techniques to email spam classification. Benchmar
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Dev0907&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=19C6C8&text_color=FFFFFF&rank_icon=github&cache_seconds=1800&v=2"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev0907&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=FFFFFF&langs_count=8&cache_seconds=1800&v=2"/>
-
-<br/>
-
-<img height="165" src="https://streak-stats.demolab.com?user=Dev0907&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=19C6C8&currStreakLabel=7C3AED&cache_seconds=1800&v=2"/>
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dev0907&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=19C6C8&text_color=FFFFFF&rank_icon=github&include_all_commits=true&count_private=true" 
+       alt="Dev Parikh GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev0907&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=FFFFFF&langs_count=8" 
+       alt="Top Languages"/>
+  <br/>
+  <img height="165" src="https://github-readme-streak-stats-eight.vercel.app/?user=Dev0907&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=19C6C8&currStreakLabel=7C3AED" 
+       alt="GitHub Streak"/>
 </div>
 
 ---
@@ -339,21 +337,18 @@ Comparative study applying NLP techniques to email spam classification. Benchmar
 ## 📈 Contribution Activity
 
 <div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dev0907&theme=tokyo-night&hide_border=true&area=true&custom_title=Dev%20Parikh%20Contribution%20Graph&cache_seconds=1800&v=2"/>
-
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dev0907&theme=tokyo-night&hide_border=true&area=true&custom_title=Dev%20Parikh%20Contribution%20Graph" 
+       alt="Contribution Graph"/>
 </div>
 
 ---
 
-## 🟩 Daily Contributions
+## 🟩 Contribution Heatmap
 
 <div align="center">
-
-<img width="95%" src="https://github-contribution-stats.vercel.app/api/?username=Dev0907&theme=github&v=2"/>
-
+  <img width="95%" src="https://ghchart.rshah.org/7C3AED/Dev0907" 
+       alt="Dev0907's GitHub Contribution Chart"/>
 </div>
-
 
 
 ## 🌱 Currently
