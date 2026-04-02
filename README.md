@@ -48,13 +48,7 @@ class DevParikh:
             "Top 75 / 2,200+ Teams — Odoo x CHARUSAT Hackathon",
         ]
 
-    @property
-    def currently(self):
-        return {
-            "building"   : ["Lekh.ai — AI Document Platform", "PicklePro — AI Sports Analytics"],
-            "competing"  : ["Kaggle: AI Mathematical Olympiad - Progress Prize"],
-            "researching": ["Agentic AI Workflows", "MCP Protocol", "Multilingual NLP"],
-        }
+  
 ```
 
 ---
@@ -68,7 +62,7 @@ class DevParikh:
 **B.Tech — Computer Engineering**
 🏛️ CHARUSAT University, Gujarat, India
 📅 2022 – 2026
-🎯 **CGPA: 9.61 / 10**
+🎯 **CGPA: 9.65 / 10**
 🔬 ML Club Coordinator
 🏅 UGSF Research Fellow (Funded)
 
@@ -79,7 +73,7 @@ class DevParikh:
 
 | Stream | Score | AIR | Pool |
 |--------|-------|-----|------|
-| DS & AI | **377** | **6,505** |170k+ |
+| DS & AI | **377** | **6,505** |70k+ |
 | CSE | **381** | **17,015** | 170k+ |
 
 </td>
@@ -146,30 +140,7 @@ class DevParikh:
 
 ---
 
-## 💼 Professional Experience
 
-### 🚀 Software Engineer Intern — Groovy Technoweb Pvt. Ltd.
-`Jun 2025 – Aug 2025`
-
-- **Project Annaizu** — Production AI chatbot for **100+ UK employers**, serving **500+ workers**
-  - Reduced record retrieval time by **50%** via semantic search (Qdrant + OpenAI embeddings)
-  - Backend: **MySQL (22+ tables)** with vector similarity layer
-  - Query resolution speed improved by **40%**
-- Built **compliance news agent** using **CrewAI + Flask + LangChain**
-  - High-concurrency production deployment via **Docker + Redis**
-
----
-
-### 🔬 UGSF Research Fellow — CHARUSAT University
-`Aug 2024 – Oct 2024` · *Funded Undergraduate Research Fellowship*
-
-- Bilingual OCR research on English + Gujarati text extraction
-  - **90.75% accuracy** — English text extraction
-  - **91.16% accuracy** — Gujarati text extraction
-- Built and benchmarked NLP spam filter pipeline: BoW · TF-IDF · FastText · Naive Bayes · Random Forest
-- Both outputs published in **Springer LNNS** (ICTCS 2024)
-
----
 
 ## 🚀 Featured Projects
 
@@ -210,16 +181,7 @@ class DevParikh:
 
 [![Visit PicklePro](https://img.shields.io/badge/🏓_Visit_PicklePro-4CAF50?style=for-the-badge)](https://pickleproproject.vercel.app/)
 
----
 
-### 💰 Coinnect — AI FinTech Advisory Platform
-`Full-Stack Developer`
-
-- LLM-powered financial advisory bot — **95% recommendation accuracy**
-- Multi-model reasoning: Hugging Face + Gemini
-- Stack: `React` · `Hugging Face` · `Gemini API` · `PostgreSQL`
-
----
 
 ### 🎓 Admission Counselling Chatbot
 `NLP Developer`
@@ -277,26 +239,7 @@ Comparative study applying NLP techniques to email spam classification. Benchmar
 [![Read Paper](https://img.shields.io/badge/📖_Read_on_Springer-B31B1B?style=for-the-badge&logo=springer&logoColor=white)](https://link.springer.com/chapter/10.1007/978-981-96-4142-0_19)
 [![DOI](https://img.shields.io/badge/DOI-10.1007%2F978--981--96--4142--0__19-blue?style=for-the-badge)](https://doi.org/10.1007/978-981-96-4142-0_19)
 
----
 
-## 🏆 Achievements
-
-<div align="center">
-
-| Achievement | Details |
-|-------------|---------|
-| 🏅 **GATE 2025 — DS & AI** | Score: **377** · AIR: **6,505** / 170,000+ candidates |
-| 🏅 **GATE 2025 — CSE** | Score: **381** · AIR: **17,015** / 170,000+ candidates |
-| 📚 **NPTEL Elite × 5** | Top **5%** nationwide across 5 courses |
-| 🥇 **Odoo × CHARUSAT Hackathon** | **Top 75** out of **2,200+ teams** |
-| 📖 **Springer Author × 2** | ICTCS 2024 · LNNS Vols. 1323 & 1324 |
-| 🎓 **CGPA 9.61 / 10** | B.Tech Computer Engineering, CHARUSAT |
-| 🏛️ **ML Club Coordinator** | Led university ML community & workshops |
-| 🔭 **UGSF Research Fellow** | Funded undergraduate research, CHARUSAT |
-
-</div>
-
----
 
 ## 💡 Open Source Contributions
 
@@ -348,20 +291,7 @@ Comparative study applying NLP techniques to email spam classification. Benchmar
   <img width="95%" src="https://ghchart.rshah.org/7C3AED/Dev0907" alt="Dev0907 GitHub Contribution Heatmap"/>
 </div>
 
-## 🌱 Currently
 
-```
-🌐  Building     →  Lekh.ai        AI academic document generation  (lekhai-frontend.vercel.app)
-                    PicklePro      Real-time AI sports analytics    (pickleproproject.vercel.app)
-
-🔧  Contributing →  Open Source    Actively looking for impactful OSS projects to contribute to
-
-📊  Competing    →  Kaggle         Hull Tactical · March ML Mania · AI Math Olympiad
-
-📖  Learning     →  MCP Protocol  ·  Agentic AI Workflows  ·  LangGraph  ·  Multilingual NLP
-```
-
----
 
 ## 🤝 Connect
 
