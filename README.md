@@ -331,36 +331,40 @@ Comparative study applying NLP techniques to email spam classification. Benchmar
 [![View Contribution](https://img.shields.io/badge/accomplish--ai%2Faccomplish-PR_%23480_Merged-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/accomplish-ai/accomplish/issues/480)
 
 ---
-
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dev0907&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=19C6C8&text_color=FFFFFF&rank_icon=github" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev0907&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=FFFFFF&langs_count=8" height="165"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Dev0907&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=19C6C8&text_color=FFFFFF&rank_icon=github&cache_seconds=1800"/>
 
-<br/><br/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev0907&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=FFFFFF&langs_count=8&cache_seconds=1800"/>
 
-<img src="https://streak-stats.demolab.com?user=Dev0907&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=19C6C8&currStreakLabel=7C3AED" height="165"/>
+<br/>
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev0907&bg_color=0D1117&color=7C3AED&line=19C6C8&point=FFFFFF&hide_border=true&area=true&area_color=7C3AED" width="95%"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=Dev0907&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=19C6C8&currStreakLabel=7C3AED&cache_seconds=1800"/>
 
 </div>
 
 ---
 
-## 🟩 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/7C3AED/Dev0907" width="95%" alt="Dev0907 GitHub Contribution Chart"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dev0907&theme=tokyo-night&hide_border=true&area=true&custom_title=Dev%20Parikh%20Contribution%20Graph&cache_seconds=1800"/>
 
 </div>
 
 ---
+
+## 🟩 Daily Contributions
+
+<div align="center">
+
+<img width="95%" src="https://ghchart.rshah.org/7C3AED/Dev0907" alt="Dev0907 Contribution Chart"/>
+
+</div>
+
 
 ## 🌱 Currently
 
