@@ -320,18 +320,17 @@ Comparative study applying NLP techniques to email spam classification. Benchmar
 
 [![View Contribution](https://img.shields.io/badge/accomplish--ai%2Faccomplish-PR_%23480_Merged-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/accomplish-ai/accomplish/issues/480)
 
----
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Dev0907&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=19C6C8&text_color=FFFFFF&rank_icon=github&cache_seconds=1800"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Dev0907&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=19C6C8&text_color=FFFFFF&rank_icon=github&cache_seconds=1800&v=2"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev0907&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=FFFFFF&langs_count=8&cache_seconds=1800"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev0907&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=FFFFFF&langs_count=8&cache_seconds=1800&v=2"/>
 
 <br/>
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=Dev0907&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=19C6C8&currStreakLabel=7C3AED&cache_seconds=1800"/>
+<img height="165" src="https://streak-stats.demolab.com?user=Dev0907&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=19C6C8&currStreakLabel=7C3AED&cache_seconds=1800&v=2"/>
 
 </div>
 
@@ -341,7 +340,7 @@ Comparative study applying NLP techniques to email spam classification. Benchmar
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dev0907&theme=tokyo-night&hide_border=true&area=true&custom_title=Dev%20Parikh%20Contribution%20Graph&cache_seconds=1800"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dev0907&theme=tokyo-night&hide_border=true&area=true&custom_title=Dev%20Parikh%20Contribution%20Graph&cache_seconds=1800&v=2"/>
 
 </div>
 
@@ -351,9 +350,10 @@ Comparative study applying NLP techniques to email spam classification. Benchmar
 
 <div align="center">
 
-<img width="95%" src="https://github-contribution-stats.vercel.app/api/?username=Dev0907&theme=github&v=1"/>
+<img width="95%" src="https://github-contribution-stats.vercel.app/api/?username=Dev0907&theme=github&v=2"/>
 
 </div>
+
 
 
 ## 🌱 Currently
