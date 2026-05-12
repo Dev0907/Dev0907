@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&width=750&height=90&lines=2%C3%97+GATE+Qualified+%7C+CGPA+9.61%2F10+%7C+Springer+Author;AI+Engineer+%7C+NLP+Researcher+%7C+Open+Source+Contributor;Building+AI+tools+with+measurable+real-world+impact)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&width=750&height=90&lines=2%C3%97+GATE+Qualified+%7C+CGPA+9.69%2F10+%7C+Springer+Author;AI+Engineer+%7C+NLP+Researcher+%7C+Open+Source+Contributor;Building+AI+tools+with+measurable+real-world+impact)](https://git.io/typing-svg)
 
 <br/>
 
@@ -30,7 +30,7 @@ class DevParikh:
     def __init__(self):
         self.name        = "Dev Parikh"
         self.degree      = "B.Tech Computer Engineering @ CHARUSAT University (2022–26)"
-        self.cgpa        = "9.61 / 10"
+        self.cgpa        = "9.69 / 10"
         self.location    = "Gujarat, India"
         self.email       = "devparikh200479@gmail.com"
 
