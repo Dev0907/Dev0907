@@ -303,7 +303,7 @@ Comparative study applying NLP techniques to email spam classification. Benchmar
 | 🐙 GitHub | [Dev0907](https://github.com/Dev0907) |
 | 📊 Kaggle | [molaritydev09](https://www.kaggle.com/molaritydev09) |
 | 📖 Springer | [Publications](https://link.springer.com/search?query=Dev+Parikh+Charusat) |
-| 🌐 Lekh.ai | [lekhai-frontend.vercel.app](https://lekhai-frontend.vercel.app/) |
+| 🌐 Lekh.ai | [lekhai.live](https://lekhai.live/) |
 | 🏓 PicklePro | [pickleproproject.vercel.app](https://pickleproproject.vercel.app/) |
 | 📧 Email | [devparikh200479@gmail.com](mailto:devparikh200479@gmail.com) |
 
