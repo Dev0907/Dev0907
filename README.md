@@ -21,37 +21,6 @@
 
 </div>
 
----
-
-## 👨‍💻 About Me
-
-```python
-class DevParikh:
-    def __init__(self):
-        self.name        = "Dev Parikh"
-        self.degree      = "B.Tech Computer Engineering @ CHARUSAT University (2022–26)"
-        self.cgpa        = "9.69 / 10"
-        self.location    = "Gujarat, India"
-        self.email       = "devparikh200479@gmail.com"
-
-    @property
-    def highlights(self):
-        return [
-            "2x GATE Qualified — DS&AI (AIR 6,505) + CSE (AIR 17,015) [2025]",
-            "2x Springer-Published Research Author — ICTCS 2024 / LNNS Series",
-            "Open Source Contributor — Accomplish AI (MIT) · +895/-2 lines merged to main",
-            "ML Club Coordinator @ CHARUSAT University",
-            "Co-founder @ Lekh.ai — Live AI Document Generation Platform",
-            "Software Engineer Intern — AI chatbot serving 100+ UK employers",
-            "5x NPTEL Elite Certified (Top 5% Nationwide)",
-            "Kaggle Competitor — Hull Tactical · March ML Mania · AI Math Olympiad",
-            "Top 75 / 2,200+ Teams — Odoo x CHARUSAT Hackathon",
-        ]
-
-  
-```
-
----
 
 ## 🎓 Education & Academic Standing
 
@@ -62,9 +31,8 @@ class DevParikh:
 **B.Tech — Computer Engineering**
 🏛️ CHARUSAT University, Gujarat, India
 📅 2022 – 2026
-🎯 **CGPA: 9.65 / 10**
-🔬 ML Club Coordinator
-🏅 UGSF Research Fellow (Funded)
+🎯 **CGPA: 9.69 / 10**
+
 
 </td>
 <td width="45%">
@@ -145,7 +113,6 @@ class DevParikh:
 ## 🚀 Featured Projects
 
 ### 🤖 [Lekh.ai — AI Academic Document Platform](https://lekhai-frontend.vercel.app/)
-`Co-founder & Full-Stack Developer`
 
 > The all-in-one AI document platform for elite academic applications — SOPs, Resumes, LORs, Research Papers, and IEEE SRS specs — built for students targeting top global universities.
 
@@ -155,17 +122,15 @@ class DevParikh:
 | 📄 Precision Resume | Ivy League-standard academic CV |
 | ✉️ LOR Engine | Faculty-grade Letters of Recommendation |
 | 📐 SRS Generator | IEEE 830-1998 compliant Software Requirements Spec |
-| 🔬 Research Paper | Structured academic papers with full methodology |
-| 📚 Citation Engine | APA · MLA · Chicago · Vancouver auto-formatting |
 
-**Stack:** `Next.js` `TypeScript` `OpenAI API` `Anthropic API` `Multi-step LLM pipelines` `DOCX/PDF export`
+
+**Stack:** `Next.js` `TypeScript` `Sarvam API` `Multi-step LLM pipelines` `DOCX/PDF export`
 
 [![Visit Lekh.ai](https://img.shields.io/badge/🌐_Visit_Lekh.ai-19C6C8?style=for-the-badge)](https://lekhai-frontend.vercel.app/)
 
 ---
 
 ### 🏓 [PicklePro — AI Sports Analytics Platform](https://pickleproproject.vercel.app/)
-`Full-Stack AI/ML Developer`
 
 > *Dink. Drive. Dominate.* — Real-time computer vision analytics for competitive pickleball.
 
@@ -183,13 +148,6 @@ class DevParikh:
 
 
 
-### 🎓 Admission Counselling Chatbot
-`NLP Developer`
-
-- University rank predictor — **90% accuracy**, used by **100+ students**
-- Full RAG pipeline: `Flask` · `Pinecone` · `Cohere` · `MongoDB`
-
----
 
 ## 📊 Kaggle — Competitive Machine Learning
 
@@ -209,7 +167,6 @@ class DevParikh:
 
 ## 📑 Research Publications
 
-> Peer-reviewed papers in **Springer Nature — Lecture Notes in Networks and Systems (LNNS)**, presented at **ICTCS 2024** (International Conference on Information and Communication Technology for Competitive Strategies).
 
 ---
 
@@ -257,9 +214,7 @@ Comparative study applying NLP techniques to email spam classification. Benchmar
 | Per-task CDP session management | Each task gets its own isolated session — prevents interference between concurrent executions |
 | Task lifecycle hooks | CDP sessions open and tear down in sync with task start/stop events |
 | Direct CDP session support | Enables direct communication with browser targets without a proxy layer |
-| **Impact** | **+895 / −2 lines** merged to `main` — infrastructure powering the live browser view feature |
 
-> *Maintainer note:* "Your PR provided the low-level CDP infrastructure that makes the live browser view possible... Your work (+895 / -2 lines) is now live in main." — [@mavishay](https://github.com/mavishay)
 
 [![View Contribution](https://img.shields.io/badge/accomplish--ai%2Faccomplish-PR_%23480_Merged-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/accomplish-ai/accomplish/issues/480)
 
@@ -293,30 +248,8 @@ Comparative study applying NLP techniques to email spam classification. Benchmar
 
 
 
-## 🤝 Connect
-
-<div align="center">
-
-| Platform | Handle / Link |
-|----------|--------------|
-| 💼 LinkedIn | [devparikh-charusat09](https://www.linkedin.com/in/devparikh-charusat09/) |
-| 🐙 GitHub | [Dev0907](https://github.com/Dev0907) |
-| 📊 Kaggle | [molaritydev09](https://www.kaggle.com/molaritydev09) |
-| 📖 Springer | [Publications](https://link.springer.com/search?query=Dev+Parikh+Charusat) |
-| 🌐 Lekh.ai | [lekhai.live](https://lekhai.live/) |
-| 🏓 PicklePro | [pickleproproject.vercel.app](https://pickleproproject.vercel.app/) |
-| 📧 Email | [devparikh200479@gmail.com](mailto:devparikh200479@gmail.com) |
-
-</div>
 
 ---
 
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
 
-*"Code with purpose, build with impact."*
-
-⭐ **Star my repos if you find them useful!**
-
-</div>
