@@ -194,6 +194,13 @@ Both streams cleared on the first attempt
 
 Merged pull requests in **Accomplish AI** and **DeepFace**. Full profile: [github.com/Dev0907](https://github.com/Dev0907)
 
+<div align="center">
+
+[![DeepFace merged PRs](https://img.shields.io/github/issues-search/serengil/deepface?query=author%3ADev0907%20is%3Apr%20is%3Amerged&label=DeepFace%20merged%20PRs&color=31FCDE&labelColor=191919&style=for-the-badge)](https://github.com/serengil/deepface/pulls?q=is%3Apr+author%3ADev0907+is%3Amerged)
+[![Accomplish AI merged PRs](https://img.shields.io/github/issues-search/accomplish-ai/accomplish?query=author%3ADev0907%20is%3Apr%20is%3Amerged&label=Accomplish%20AI%20merged%20PRs&color=31FCDE&labelColor=191919&style=for-the-badge)](https://github.com/accomplish-ai/accomplish/pulls?q=is%3Apr+author%3ADev0907+is%3Amerged)
+
+</div>
+
 ### [Accomplish AI](https://github.com/accomplish-ai/accomplish): Open Source AI Desktop Coworker
 `Contributor` `TypeScript` `Chrome DevTools Protocol` `Electron`
 
